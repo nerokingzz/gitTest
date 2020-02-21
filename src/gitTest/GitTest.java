@@ -4,7 +4,7 @@ public class GitTest {
 
 	public static void main(String[] args) {
 
-		 System.out.println("심동현바보똥깨야");
+		 System.out.println("안녕하세여123123123");
 
 	}
 
