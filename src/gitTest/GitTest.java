@@ -22,6 +22,9 @@ public class GitTest {
 		 
 		 
 		 System.out.println("testBranch에만 존재");
+		 
+		 
+		 System.out.println("testBranch2 만들었다");
 
 	}
 
