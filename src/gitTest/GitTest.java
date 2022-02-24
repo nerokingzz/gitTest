@@ -15,6 +15,7 @@ public class GitTest {
 		 System.out.println("q3434");
 		 
 		 System.out.println("소스트리 확인");
+		 System.out.println("계정정보 어떻게 바꿈???????????");
 
 		 
 		 
