@@ -13,6 +13,8 @@ public class GitTest {
 		 
 		 
 		 System.out.println("q3434");
+		 
+		 System.out.println("소스트리 확인");
 
 
 	}
