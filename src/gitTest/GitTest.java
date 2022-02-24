@@ -26,6 +26,8 @@ public class GitTest {
 		 
 		 System.out.println("testBranch2 만들었다");
 		 System.out.println("testBranch2에만 생기게 하기 성공!!!");
+		 
+		 System.out.println("push떄마다 암호 확인 안하게 설정 됐는지 테스트");
 
 	}
 
