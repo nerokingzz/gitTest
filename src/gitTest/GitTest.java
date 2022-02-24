@@ -25,6 +25,7 @@ public class GitTest {
 		 
 		 
 		 System.out.println("testBranch2 만들었다");
+		 System.out.println("testBranch2에만 생기게 하기 성공!!!");
 
 	}
 
